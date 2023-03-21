@@ -1,5 +1,5 @@
 # restChatCpp
-A REST based web chat program using C++
+A REST based web chat program using Python
  - https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
  - https://pypi.org/project/Flask-Cors/
 
